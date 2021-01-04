@@ -1,0 +1,24 @@
+{
+  "name": "welson_v1",
+  "version": "1.0.0",
+  "main": ".eleventy.js",
+  "author": "Garrett Welson <garrettwelson@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "yarn gulp && concurrently \"yarn gulp watch\" \"yarn eleventy --serve\"",
+    "production": "NODE_ENV=production yarn gulp && NODE_ENV=production yarn eleventy"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^0.11.1",
+    "@11ty/eleventy-cache-assets": "^2.0.4",
+    "@11ty/eleventy-plugin-rss": "^1.0.9",
+    "concurrently": "^5.3.0",
+    "get-google-fonts": "^1.2.2",
+    "gorko": "^0.2.3",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-sass": "^4.1.0",
+    "html-minifier": "^4.0.0",
+    "sass": "^1.32.0"
+  }
+}

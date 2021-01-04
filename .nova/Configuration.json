@@ -1,0 +1,4 @@
+{
+  "prettier.default-config.htmlWhitespaceSensitivity" : "ignore",
+  "prettier.default-config.proseWrap" : "never"
+}
