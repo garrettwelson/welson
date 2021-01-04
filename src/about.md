@@ -25,9 +25,9 @@ layout: "layouts/home.html"
 
 ## Get in touch with me
 
-* Twitter **@garrettwelson**
-* LinkedIn **GarrettWelson**
-* Email **[my last name] [at] [hey] [dot] [com]**
-* Phone **lol no**
-* Discord/Slack _I'm in some good public Discords and Slacks, you might be able to find me there_
+* **Twitter:** [@garrettwelson](https://twitter.com/garrettwelson)
+* **LinkedIn:** [GarrettWelson](https://www.linkedin.com/in/garrettwelson/)
+* **Email:** [[my last name] [at] [hey] [dot] [com]](mailto:welson@hey.com?subject=Hello!%20I'm%20reaching%20out%20from%20welson.dev)
+* **Phone:** lol no
+* **Discord/Slack:** _I'm in some good public Discords and Slacks, you might be able to find me there_
 
